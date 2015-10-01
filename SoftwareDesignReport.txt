@@ -1,0 +1,21 @@
+Ashton
+
+Updating cost estimations
+Background and related work
+---------------------------------------
+Joel
+
+Update requirements and analysis models
+Work with Sean on the design models
+---------------------------------------
+Kylie
+
+Introduction 1-4
+Format
+Project testing validation
+Bibliography
+---------------------------------------
+Sean
+
+Design models with joel
+Software project plan 
