@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color:lightblue}
+h1   {color:blue}
+p    {color:green}
+</style>
+</head>
+<body>
+
+<div class="container-fluid">
+
+	<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="page-header">
+				<h1>
+					Medi-Buddy
+				</h1>
+			</div>
+			<div class="page-header">
+				<h2>
+					Module Menu
+				</h2>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-4">
+			
+			<h1>
+				Module 1
+			</h1>
+			<div>
+				Learn Breathing
+			</div>
+			
+			<p>
+				<a class="btn" href="#">Start Module »</a>
+			</p>
+			<div class="progress">
+				<div class="progress-bar progress-success">
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<h1>
+				Module 2
+			</h1>
+			<div>
+				Cool Module 2 Stuff
+			</div>
+			
+			<p>
+				<a class="btn" href="#">Start Module »</a>
+			</p>
+			<div class="progress">
+				<div class="progress-bar progress-success">
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+			
+			<h1>
+				Module 3
+			</h1>
+			<div>
+				Other Stuff
+			</div>
+			
+			<p>
+				<a class="btn" href="#">Start Module »</a>
+			</p>
+			<div class="progress">
+				<div class="progress-bar progress-success">
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+			
+			<h1>
+				Module 4
+			</h1>
+			<div>
+				Fourth Module
+			</div>
+			
+			<p>
+				<a class="btn" href="#">Start Module »</a>
+			</p>
+			<div class="progress">
+				<div class="progress-bar progress-success">
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</div>
+
+</div>
+
+</body>
+</html>
+
+
