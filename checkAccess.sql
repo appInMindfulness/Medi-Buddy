@@ -2,7 +2,7 @@ DROP FUNCTION IF EXISTS checkPrivileges;
 
 delimiter //
 
-CREATE FUNCTION checkPrivileges (username INT)
+CREATE FUNCTION checkPrivileges (username varchar(60))
   RETURNS INT
   DETERMINISTIC
   BEGIN
