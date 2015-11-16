@@ -2,7 +2,7 @@ DROP FUNCTION IF EXISTS lockOutParticipant;
 
 delimiter //
 
-CREATE FUNCTION lockOutParticipant (username INT)
+CREATE FUNCTION lockOutParticipant (username varchar(60))
   RETURNS INT
   DETERMINISTIC
   BEGIN
